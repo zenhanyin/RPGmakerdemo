@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"list":[{"code":316,"indent":0,"parameters":[0,0,1,0,20,false]},{"code":318,"indent":0,"parameters":[0,0,1,3]},{"code":318,"indent":0,"parameters":[0,0,1,4]},{"code":318,"indent":0,"parameters":[0,0,1,5]},{"code":318,"indent":0,"parameters":[0,0,1,8]},{"code":318,"indent":0,"parameters":[0,0,1,11]},{"code":318,"indent":0,"parameters":[0,0,1,12]},{"code":318,"indent":0,"parameters":[0,0,1,13]},{"code":318,"indent":0,"parameters":[0,0,1,15]},{"code":0,"indent":0,"parameters":[]}],"name":"遗忘技能","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":122,"indent":0,"parameters":[1,1,0,3,7,8,0]},{"code":0,"indent":0,"parameters":[]}],"name":"变量事件","switchId":16,"trigger":2},
+{"id":3,"list":[{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["   "]},{"code":401,"indent":0,"parameters":["    已开启避免暗雷遇敌效果"]},{"code":136,"indent":0,"parameters":[0]},{"code":0,"indent":0,"parameters":[]}],"name":"避免暗雷遇敌","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["   "]},{"code":401,"indent":0,"parameters":["    已开启暗雷遇敌效果"]},{"code":136,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"引起暗雷遇敌","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":129,"indent":0,"parameters":[1,0,true]},{"code":129,"indent":0,"parameters":[2,0,true]},{"code":127,"indent":0,"parameters":[1,1,0,1,true]},{"code":127,"indent":0,"parameters":[2,1,0,1,true]},{"code":0,"indent":0,"parameters":[]}],"name":"装备清空","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":339,"indent":0,"parameters":[1,5,5,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"协战","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

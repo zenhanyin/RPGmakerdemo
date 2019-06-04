@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"rushou_2","characterIndex":0,"characterName":"rushou","classId":3,"equips":[1,0,0,0,0,0,0,0,0,0],"faceIndex":0,"faceName":"Actor4","traits":[{"code":43,"dataId":10,"value":1}],"initialLevel":20,"maxLevel":99,"name":"司秋","nickname":"","note":"","profile":"神名蓐收，为戎与祀之神。"},
+{"id":2,"battlerName":"dijiang_1","characterIndex":0,"characterName":"dijiang","classId":3,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"dijiang","traits":[{"code":43,"dataId":9,"value":1}],"initialLevel":20,"maxLevel":99,"name":"帝江","nickname":"","note":"","profile":"神王王弟，天神帝江。"},
+{"id":3,"battlerName":"rushou_1","characterIndex":2,"characterName":"rushou","classId":1,"equips":[6,0,0,0,21],"faceIndex":4,"faceName":"rennzudijiang","traits":[],"initialLevel":5,"maxLevel":99,"name":"重秋","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"qianhuang_1","characterIndex":2,"characterName":"dijiang","classId":4,"equips":[5,0,0,0,22],"faceIndex":1,"faceName":"rennzudijiang","traits":[],"initialLevel":8,"maxLevel":99,"name":"乾荒","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"xuanhua_1","characterIndex":0,"characterName":"renzudizi","classId":7,"equips":[4,28,0,0,23,25,26,24],"faceIndex":0,"faceName":"renzumenpai","traits":[],"initialLevel":10,"maxLevel":99,"name":"至敛","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
